@@ -1,8 +1,11 @@
 {
+<<<<<<< HEAD
   "scripts": {
     "dev": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
     "build": "tailwindcss -i ./src/input.css -o ./dist/output.css --minify"
   },
+=======
+>>>>>>> 99eb7d61b581254b0ed11c98cba296c1fb81d00b
   "devDependencies": {
     "tailwindcss": "^3.4.10"
   }
